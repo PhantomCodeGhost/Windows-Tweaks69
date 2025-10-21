@@ -72,7 +72,7 @@ SlimBrave is a powerful PowerShell script designed for Windows users to streamli
 ### Run the command below in PowerShell:
 
 ```ps1
-iwr "https://raw.githubusercontent.com/PhantomCodeGhost/Windows-Tweaks/refs/heads/main/SlimBrave.ps1" -OutFile "SlimBrave.ps1"; .\SlimBrave.ps1
+iwr "https://raw.githubusercontent.com/PhantomCodeGhost/Windows-Tweaks69/refs/heads/main/Brave%20Debloat/SlimBrave.ps1" -OutFile "SlimBrave.ps1"; .\SlimBrave.ps1
 ```
 
 ---
@@ -165,11 +165,6 @@ In an era of increasingly bloated browsers, SlimBrave puts **you** back in contr
 - [ ] Add support for Linux/Mac (WIP)
 
 ---
-<div align="center">
-   
-[![PayPal Donate](https://img.shields.io/badge/PayPal_Donate-s?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/AggelosMeta)
-
-</div>
 
 <div align="center">
   
