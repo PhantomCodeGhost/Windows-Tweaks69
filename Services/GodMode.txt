@@ -1,0 +1,11 @@
+Step 1 : Create a New Folder on Desktop.
+Step 2 : Rename it To "GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}".
+Step 3 : Hit Enter.
+
+***********************************************************************
+WITH CUSTOM LOGO
+=================
+Step 1 : RightClick > New Shorcut
+Step 2 : Rename it To "explorer shell:::{ED7BA470-8E54-465E-825C-99712043E01C}".
+Step 3 : replace "explorer.exe" with your custom name.
+Step 3 : Change the icon to custom made.
